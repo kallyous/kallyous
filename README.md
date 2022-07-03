@@ -1,3 +1,8 @@
+[![Kallyous's GitHub](https://github-readme-stats.vercel.app/api?username=kallyous&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallyous&theme=gruvbox&hide=C%23,HLSL,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
 <div>
 	<a href="https://github.com/kallyous">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallyous&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -9,7 +14,6 @@
 	<img align="center" alt="Phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-<!---
 <div>
 	![Snake animation](https://github.com/kallyous/kallyous/blob/output/github-contribution-grid-snake.svg)
 	<a href="https://www.instagram.com/pabl0nes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
