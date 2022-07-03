@@ -10,10 +10,10 @@
 	<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 </div>
 
----
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=huffmanocool&theme=gruvbox)](https://github.com/kallyous/huffmanocool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=PIBIC-2020-2021&theme=gruvbox)](https://github.com/kallyous/PIBIC-2020-2021)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=cryptoforked&theme=gruvbox)](https://github.com/kallyous/cryptoforked)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=bom-velhinho&theme=gruvbox)](https://github.com/kallyous/bom-velhinho)
+-->
