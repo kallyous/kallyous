@@ -1,6 +1,18 @@
-[![Kallyous's GitHub](https://github-readme-stats.vercel.app/api?username=kallyous&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kallyous's GitHub](https://github-readme-stats.vercel.app/api?username=kallyous&show_icons=true&theme=gruvbox&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallyous&theme=gruvbox&hide=C%23,HLSL,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+[![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallyous&theme=gruvbox&layout=compact&hide=C%23,HLSL,ShaderLab)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=br-banking-cnab&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=PIBIC-2020-2021&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=huffmanocool&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=cryptoforked&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=bom-velhinho&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kallyous&repo=PAA-Q-3-2&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 <div>
