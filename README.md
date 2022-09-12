@@ -8,6 +8,8 @@
 	<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 	<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 	<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+	<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+</svg>
 </div>
 
 <!--
