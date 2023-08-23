@@ -1,7 +1,8 @@
+<!--
 [![Kallyous's GitHub](https://github-readme-stats.vercel.app/api?username=kallyous&show_icons=true&theme=gruvbox&count_private=true&hide=issues,contribs)](https://github.com/kallyous)
 
 [![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallyous&theme=gruvbox&layout=compact&hide=HLSL,ShaderLab&exclude_repo=estudo-astarproject)](https://github.com/kallyous)
-
+-->
 <div>
 	<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 	<img height="64" width="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
